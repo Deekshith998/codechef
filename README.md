@@ -1,3 +1,3 @@
 ## codechef 
-### noodles problem[[chefnoodles/question.md]]
+###[instantnoodles](http://github.com/Deekshith998/codechef/Chefnoodles/question.md)
 
