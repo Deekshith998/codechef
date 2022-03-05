@@ -1,2 +1,3 @@
 ## codechef 
-### noodles problem
+### noodles problem[[chefnoodles/question.md]]
+
