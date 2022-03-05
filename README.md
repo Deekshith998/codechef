@@ -1,3 +1,3 @@
 ## codechef 
-###[instantnoodles](http://github.com/Deekshith998/codechef/Chefnoodles/question.md)
+###[instantnoodles](https://github.com/Deekshith998/codechef/blob/main/Chefnoodles/Question.md)
 
