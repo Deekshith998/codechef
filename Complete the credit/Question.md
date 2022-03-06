@@ -17,6 +17,6 @@ we have to classify the semester into 3 categories based on the credits
 
 - normal: if in btw.
 
-
+[solution](https://github.com/Deekshith998/codechef/blob/main/Complete%20the%20credit/credits.c)
 
 
