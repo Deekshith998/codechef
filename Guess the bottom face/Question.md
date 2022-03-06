@@ -10,3 +10,4 @@
 
 > Task:7-X
 
+[solution](https://github.com/Deekshith998/codechef/blob/main/Guess%20the%20bottom%20face/bottom.c)
