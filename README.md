@@ -2,4 +2,6 @@
 1. [instantnoodles](https://github.com/Deekshith998/codechef/blob/main/Chefnoodles/Question.md)
 > task:x*y Q1
 2. [credits](https://github.com/Deekshith998/codechef/blob/main/Complete%20the%20credit/Question.md)
-> tssk:IF ELSE
+> task:IF ELSE
+3. [bottom face](https://github.com/Deekshith998/codechef/blob/main/Guess%20the%20bottom%20face/Question.md)
+> task: subtraction
