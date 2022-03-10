@@ -13,4 +13,6 @@ A1 A2 A...
 N W
 A1 A2
 
-> complex ARRAY,IF ELSE
+> Reverse array.Some oprations
+
+- [solution](https://github.com/Deekshith998/codechef/blob/main/Lazy%20salesman/lazy.c)
