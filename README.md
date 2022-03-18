@@ -7,4 +7,5 @@
 > task: subtraction
 4. [Lazy salesman](https://github.com/Deekshith998/codechef/blob/main/Lazy%20salesman/Question.md)
 > task: reverse the array. some operations
+5. [work in progress]
 
